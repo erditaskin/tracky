@@ -8,7 +8,8 @@ Features
 2. It uses redux and redux thunk to manage state.
 3. Timeline and auth states are persisted with redux-persist in localstorage.
 4. Project is configured to run up on docker as well
-5. What project offers is a simple body measurement tracking system which you can add/edit/delete various of data and it shows those data as a timeline tree.
+5. Project uses Material UI components for various UI elements.
+6. What project offers is a simple body measurement tracking system which you can add/edit/delete various of data and it shows those data as a timeline tree.
 
 ## Firebase Conf
 
@@ -21,5 +22,5 @@ To configure firebase;
 
 - Clone the app
 - `cd project_folder`
-- `npm start` or `docker-compose up`
+- `npm install`, `npm start` or `docker-compose up`
 - It will run up @http://localhost:3000

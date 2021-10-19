@@ -2,7 +2,7 @@
 
 This app is made for fulfilling requirements of given task.
 
-Features
+## Features
 
 1. It's based on firebase authentication and realtime database.
 2. It uses redux and redux thunk to manage state.
@@ -14,9 +14,13 @@ Features
 ## Firebase Conf
 
 To configure firebase;
+1. Pushed .env file to make it work easily with my current firebase configs
 
-1. Pushed .env file to make it work easier with my current firebase configs
+## Proceed to app
 
+1. Register new account (/register) (You can use dummy email addresses to create new account) or login (/login) if you already created one
+2. Click "My Tracky Dashboard" from top navbar.
+3. Here you can list/add/edit/delete your measurement history within the timeline items.
 
 ## Running
 

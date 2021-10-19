@@ -19,7 +19,7 @@ To configure firebase;
 ## Proceed to app
 
 1. Register new account (/register) (You can use dummy email addresses to create new account) or login (/login) if you already created one
-2. Click "My Tracky Dashboard" from top navbar.
+2. Click "My Tracky Dashboard" (/dashboard) from top navbar.
 3. Here you can list/add/edit/delete your measurement history within the timeline items.
 
 ## Running
